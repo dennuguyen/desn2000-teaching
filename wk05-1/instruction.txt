@@ -1,0 +1,16 @@
+Workshop Activity
+
+1. What were your personas' CNs?
+
+2. Brainstorm/write a bunch of stories around your personas and CNs
+	Stories have a setting
+	Stories have a character
+	Stories have a problem
+
+3. Which of these stories are most emotionally and rationally compelling?
+	Who do you feel most empathy to?
+	Who has the realest problem?
+	Is the story interesting/engaging?
+
+4. Your story should follow this format:
+	context/user -> problem -> solution

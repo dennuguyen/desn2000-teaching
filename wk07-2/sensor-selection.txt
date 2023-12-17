@@ -1,0 +1,14 @@
+1. Identify list of sensors for your project
+2. Identify sensor constraints
+	- budget
+	- size
+	- sampling rate
+	- any other data requirements
+3. GOOGLE & find an appropriate model
+	- Jaycar
+	- Core electronics
+	- RS Pro
+4. Write pseudocode for how to use the sensor
+5. Perform power requirements (optional)
+	- Helps to draw a circuit diagram
+	- What is average power draw to turn on sensors? Therefore what battery capacity needed?
